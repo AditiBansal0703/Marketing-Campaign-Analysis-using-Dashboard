@@ -11,6 +11,7 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 - 🍷 **Product-wise Sales Performance**
 - 📊 **Demographic Patterns in Buying Behavior**
 - 🔍 **Complaints and Customer Segmentation**
+  
 
 ## 🛠 Tools & Technologies
 
@@ -20,7 +21,6 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 | **Pandas**       | Data Wrangling                       |
 | **Seaborn / Matplotlib** | Data Visualization (for trends) |
 | **Jupyter Notebook** | Analysis & Experimentation         |
-| **Google Sheets** | Intermediate data source for Looker  |
 | **Google Looker Studio** | Dashboard creation & visualization |
 
 ---
@@ -31,10 +31,8 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 - Identified patterns by age, education, marital status, and income.
 - Visualized sales per product category, income vs purchases, etc.
 
-### ✅ Step 2: Upload Processed Data to Google Sheets
-- Transferred processed data to Google Sheets as a bridge to Looker Studio.
 
-### ✅ Step 3: Dashboard Development in Looker Studio
+### ✅ Step 2: Dashboard Development in Looker Studio
 - Designed an **interactive marketing dashboard** with dropdown filters for:
   - Age Group
   - Marital Status
@@ -45,9 +43,6 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 ---
 
 ## 📊 Dashboard Highlights
-
-🔹 **Top KPIs at a Glance**  
-• Average Income, Total Sales, Avg. Meat Purchase, Complaints, Unique Customers  
 
 🔹 **Visual Storytelling**  
 • Age group vs. Education level  
@@ -65,12 +60,6 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 
 ---
 
-## 📷 Dashboard Preview
-
-![Dashboard Screenshot](./6b97efea-0537-4e2c-939d-e2342de12415.png)
-
----
-
 ## 🌟 Key Takeaways
 
 - Clear relationship between **education level and total purchases**.
@@ -84,13 +73,12 @@ I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)
 
 - `marketing_analysis.ipynb` – Jupyter notebook for EDA
 - `marketing_dashboard.png` – Dashboard preview image
-- Google Looker Studio (optional) – [Add link if published]
 
 ---
 
 ## 📌 Conclusion
 
-This project demonstrates how raw marketing data can be transformed into actionable insights through **data analysis** and **interactive BI tools**. It's a great example of bridging **data science** with **business intelligence** to support strategic decisions.
+This project demonstrates how raw marketing data can be transformed into actionable insights through **data analysis** and **interactive visualization tools**. 
 
 ---
 
