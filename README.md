@@ -3,6 +3,7 @@ This project focuses on analyzing consumer purchase behavior using a marketing d
 
 <img width="1062" height="797" alt="image" src="https://github.com/user-attachments/assets/5a48f497-3009-4286-bbda-96e1472568e2" />
 
+
 In today’s data-driven market, understanding customer behavior is critical.  
 I started with a Jupyter Notebook for thorough **Exploratory Data Analysis (EDA)** and wrapped it up with a clean, interactive **dashboard** that offers insights into:
 
